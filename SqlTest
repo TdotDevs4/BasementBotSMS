@@ -1,0 +1,11 @@
+INSERT INTO 
+Events SELECT 0, 1001, 'test', 'test', 'test', '/event_sub_input.php?intEventId=', CURRENT_TIME(), CURRENT_TIME(), 0, DATE_ADD(CURRENT_TIME(), INTERVAL 2 DAY) 
+WHERE 
+(SELECT COUNT(intEventId FROM Events WHERE intUserId = 1001 AND dtmExpiration > CURRENT_TIME() AND blnExpired = 0) = 0;
+
+SELECT 
+COUNT(intEventId) FROM Events
+WHERE 
+intUserId = 1001 
+AND dtmExpiration > CURRENT_TIME() 
+AND blnExpired = 0;

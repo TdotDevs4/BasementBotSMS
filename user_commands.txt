@@ -1,10 +1,6 @@
-You are now in [USER] [COMMAND] mode for [BasementBotSMS]. Respond with your next command:
-
--- Functional Commands --
+#### Functional Commands ####
+- [stop]*
+- [events]
 - [commands]
+- [fcommands]
 - [me]
-- [stop]
-
--- Friendly Commands --
-- [cbhskate69]
-- [mufassa8941]

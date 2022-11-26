@@ -1,0 +1,3 @@
+###Create an Event###
+- [CONFIRM] Respond with [yeet] to confirm the event.
+- [DECLINE] Respond with [nah] to start over.

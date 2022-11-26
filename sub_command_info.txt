@@ -1,0 +1,2 @@
+
+Commands with a (*) will return sub-commands relative to that command. Your next input will be a sub-command.

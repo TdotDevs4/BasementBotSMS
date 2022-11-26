@@ -1,0 +1,9 @@
+<?php 
+$strHeader = 'rcommand_add_1*';
+$IndexOfStar = strpos($strHeader, '*');
+$C3InputNum = substr($strHeader, $IndexOfStar-1,1);
+
+echo $strHeader.'<br>';
+echo $IndexOfStar.'<br>';
+echo $C3InputNum.'<br>';
+?>

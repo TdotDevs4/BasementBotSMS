@@ -1,0 +1,3 @@
+###Create an Event###
+- [2 of 3] Input your Event Location as your next command.
+- The following prompt will be when your event begins....
