@@ -1,0 +1,11 @@
+You are now in a [ADMIN] [SUB-COMMAND] mode for [event]. Respond with your next command:
+
+- [create]
+- [code]
+- [info]
+- [change]*
+- [off]
+- [on]
+- [nvm]
+
+{Commands with (*) will return more sub-commands relative to that command. Your next input will be a sub-command}

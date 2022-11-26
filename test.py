@@ -1,0 +1,1 @@
+print("TEST PYTHON SCRIPT - 1")

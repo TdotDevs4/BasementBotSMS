@@ -1,0 +1,13 @@
+You are now in [ADMIN] [COMMAND] mode for [BasementBotSMS]. Respond with your next command:
+
+-- Functional Commands --
+- [commands]
+- [me]
+- [event]*
+
+-- Friendly Commands --
+- [cbhskate69]
+- [mufassa8941]
+
+
+{Commands with (*) will return sub-commands relative to that command. Your next input will be a sub-command.}
